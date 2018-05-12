@@ -1,4 +1,8 @@
 _repo: Verdaj-fajreroj-Kolekto-da-versajoj_48896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48896-h/images/cover.jpg
 creator:
   author:
     agent_name: Frenkel, Roman
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45029
     wikipedia: http://eo.wikipedia.org/wiki/Roman_Frenkel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48896#Verdaj-fajreroj-Kolekto-da-versajoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2015-05-08'
 gutenberg_type: Text
