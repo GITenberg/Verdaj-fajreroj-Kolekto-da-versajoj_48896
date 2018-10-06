@@ -21,5 +21,7 @@ language: eo
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Verdaj fajreroj\r\nKolekto da versaĵoj"
 url: http://www.gutenberg.org/ebooks/48896
